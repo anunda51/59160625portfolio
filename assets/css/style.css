@@ -10,12 +10,12 @@ body {
 	line-height: 30px;
 	text-align: left;
 	/* Set width to 1200 instead of 960 for better layout (in my humble opinion). */
-	width: 1200px;
+	width: 1550px;
 }
 
 header	{
 	float: left;
-	background-color: #4aaaa5;
+	background-color: #e62117;
 	border-bottom: none;
 	color: #ffffff;
 	height: 100%;
@@ -32,7 +32,7 @@ header	{
 
 h2,
 h3	{
-	color: #4aaaa5;
+	color: #f00;
 	border-bottom:	3px solid #dddddd;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	margin-top: 1px;
@@ -64,7 +64,7 @@ li.border {
 }
 
 a {
-	color: #777777;
+	color: #f1f1f1;
 	text-decoration: none;
 }
 
@@ -90,10 +90,10 @@ a:hover {
 }
 
 section	{
-	background-color: #ffffff;
+	background-color: #333;
 	float: left;
-	color: #777777;
-	border: 2px solid #dddddd;
+	color: #f1f1f1;
+	border: 2px solid #000bff;
 }
 
 input,
@@ -128,7 +128,7 @@ footer {
 
 .header-container {
 	border-bottom: 2px solid #cccccc;
-	background-color: #ffffff;
+	background-color: #333;
 	height: 60px;
 }
 
@@ -136,7 +136,7 @@ footer {
 	clear: both;
 	overflow: auto;
 	margin: 0 auto;
-	background-image: url("../images/background.png");
+	background-image: url("../images/bg3.jpg");
 	height: 600px;
 	width: 100%;
 	border-bottom: 5px solid #4aaaa5;
@@ -171,7 +171,7 @@ footer {
 	top: -50px;
 	width: 100%;
 	height: 30px;
-	background-color: #4aaaa5;
+	background-color: #e62117;
 	color: #ffffff;
 	text-align: center;
 }
